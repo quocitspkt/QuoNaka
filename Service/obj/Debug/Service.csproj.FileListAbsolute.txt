@@ -1,0 +1,15 @@
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Service.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Service.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Common.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Data.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Model.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Common.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Data.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Data.dll.config
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Model.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Service\bin\Debug\Model.dll.config
+D:\Lap trinh web\Project\project_team\Project\Project\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Lap trinh web\Project\project_team\Project\Project\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Lap trinh web\Project\project_team\Project\Project\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Lap trinh web\Project\project_team\Project\Project\Service\obj\Debug\Service.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Service\obj\Debug\Service.pdb

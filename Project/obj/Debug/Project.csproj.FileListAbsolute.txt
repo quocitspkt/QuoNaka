@@ -1,0 +1,274 @@
+D:\Nam\Lập trình web\Project\Project\bin\Project.dll.config
+D:\Nam\Lập trình web\Project\Project\bin\Project.dll
+D:\Nam\Lập trình web\Project\Project\bin\Project.pdb
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\csc.exe
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\csc.exe.config
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\csc.rsp
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\csi.exe
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\csi.exe.config
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\csi.rsp
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.AppContext.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Console.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.IO.Compression.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.IO.Pipes.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Security.Claims.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.ValueTuple.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Xml.XPath.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\vbc.exe
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\vbc.exe.config
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\vbc.rsp
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Nam\Lập trình web\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Nam\Lập trình web\Project\Project\bin\Antlr3.Runtime.dll
+D:\Nam\Lập trình web\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Nam\Lập trình web\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nam\Lập trình web\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam\Lập trình web\Project\Project\bin\Newtonsoft.Json.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Helpers.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Mvc.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Optimization.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Razor.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.WebPages.Deployment.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.WebPages.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.WebPages.Razor.dll
+D:\Nam\Lập trình web\Project\Project\bin\WebGrease.dll
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Helpers.xml
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Mvc.xml
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Optimization.xml
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.Razor.xml
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.WebPages.xml
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.WebPages.Deployment.xml
+D:\Nam\Lập trình web\Project\Project\bin\System.Web.WebPages.Razor.xml
+D:\Nam\Lập trình web\Project\Project\bin\Newtonsoft.Json.xml
+D:\Nam\Lập trình web\Project\Project\bin\Antlr3.Runtime.pdb
+D:\Nam\Lập trình web\Project\Project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Nam\Lập trình web\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Nam\Lập trình web\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nam\Lập trình web\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Nam\Lập trình web\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Nam\Lập trình web\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Nam\Lập trình web\Project\Project\obj\Debug\Project.dll
+D:\Nam\Lập trình web\Project\Project\obj\Debug\Project.pdb
+D:\Nam\Lập trình web\Project\Project\bin\EntityFramework.dll
+D:\Nam\Lập trình web\Project\Project\bin\EntityFramework.SqlServer.dll
+D:\Nam\Lập trình web\Project\Project\bin\EntityFramework.xml
+D:\Nam\Lập trình web\Project\Project\bin\EntityFramework.SqlServer.xml
+D:\Nam\Lập trình web\Project\Project\bin\PagedList.dll
+D:\Nam\Lập trình web\Project\Project\bin\PagedList.Mvc.dll
+D:\Nam\Lập trình web\Project\Project\bin\PagedList.xml
+D:\Nam\Lập trình web\Project\Project\bin\PagedList.Mvc.xml
+D:\LapTrinhWeb\Project\Project\bin\Project.dll.config
+D:\LapTrinhWeb\Project\Project\bin\Project.dll
+D:\LapTrinhWeb\Project\Project\bin\Project.pdb
+D:\LapTrinhWeb\Project\Project\bin\roslyn\csc.exe
+D:\LapTrinhWeb\Project\Project\bin\roslyn\csc.exe.config
+D:\LapTrinhWeb\Project\Project\bin\roslyn\csc.rsp
+D:\LapTrinhWeb\Project\Project\bin\roslyn\csi.exe
+D:\LapTrinhWeb\Project\Project\bin\roslyn\csi.exe.config
+D:\LapTrinhWeb\Project\Project\bin\roslyn\csi.rsp
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LapTrinhWeb\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.AppContext.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Console.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.IO.Compression.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.IO.Pipes.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Security.Claims.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.ValueTuple.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Xml.XPath.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LapTrinhWeb\Project\Project\bin\roslyn\vbc.exe
+D:\LapTrinhWeb\Project\Project\bin\roslyn\vbc.exe.config
+D:\LapTrinhWeb\Project\Project\bin\roslyn\vbc.rsp
+D:\LapTrinhWeb\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\LapTrinhWeb\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\LapTrinhWeb\Project\Project\bin\Antlr3.Runtime.dll
+D:\LapTrinhWeb\Project\Project\bin\EntityFramework.dll
+D:\LapTrinhWeb\Project\Project\bin\EntityFramework.SqlServer.dll
+D:\LapTrinhWeb\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\LapTrinhWeb\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LapTrinhWeb\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\LapTrinhWeb\Project\Project\bin\Newtonsoft.Json.dll
+D:\LapTrinhWeb\Project\Project\bin\PagedList.dll
+D:\LapTrinhWeb\Project\Project\bin\PagedList.Mvc.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Helpers.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Mvc.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Optimization.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Razor.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Web.WebPages.Deployment.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Web.WebPages.dll
+D:\LapTrinhWeb\Project\Project\bin\System.Web.WebPages.Razor.dll
+D:\LapTrinhWeb\Project\Project\bin\WebGrease.dll
+D:\LapTrinhWeb\Project\Project\bin\EntityFramework.xml
+D:\LapTrinhWeb\Project\Project\bin\EntityFramework.SqlServer.xml
+D:\LapTrinhWeb\Project\Project\bin\PagedList.xml
+D:\LapTrinhWeb\Project\Project\bin\PagedList.Mvc.xml
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Helpers.xml
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Mvc.xml
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Optimization.xml
+D:\LapTrinhWeb\Project\Project\bin\System.Web.Razor.xml
+D:\LapTrinhWeb\Project\Project\bin\System.Web.WebPages.xml
+D:\LapTrinhWeb\Project\Project\bin\System.Web.WebPages.Deployment.xml
+D:\LapTrinhWeb\Project\Project\bin\System.Web.WebPages.Razor.xml
+D:\LapTrinhWeb\Project\Project\bin\Newtonsoft.Json.xml
+D:\LapTrinhWeb\Project\Project\bin\Antlr3.Runtime.pdb
+D:\LapTrinhWeb\Project\Project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\LapTrinhWeb\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\LapTrinhWeb\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LapTrinhWeb\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\LapTrinhWeb\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\LapTrinhWeb\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\LapTrinhWeb\Project\Project\obj\Debug\Project.dll
+D:\LapTrinhWeb\Project\Project\obj\Debug\Project.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Project.dll.config
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Project.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Project.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\csc.exe
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\csc.exe.config
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\csc.rsp
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\csi.exe
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\csi.exe.config
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\csi.rsp
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.AppContext.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Console.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.IO.Compression.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.IO.Pipes.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Security.Claims.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.ValueTuple.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Xml.XPath.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\vbc.exe.config
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\vbc.rsp
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Antlr3.Runtime.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\EntityFramework.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\EntityFramework.SqlServer.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Newtonsoft.Json.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\PagedList.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\PagedList.Mvc.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Helpers.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Mvc.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Optimization.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Razor.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.WebPages.Deployment.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.WebPages.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.WebPages.Razor.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\WebGrease.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\EntityFramework.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\EntityFramework.SqlServer.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\PagedList.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\PagedList.Mvc.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Helpers.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Mvc.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Optimization.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.Razor.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.WebPages.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.WebPages.Deployment.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Web.WebPages.Razor.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Newtonsoft.Json.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Antlr3.Runtime.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Lap trinh web\Project\project_team\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Lap trinh web\Project\project_team\Project\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Lap trinh web\Project\project_team\Project\Project\Project\obj\Debug\Project.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\obj\Debug\Project.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Common.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Data.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Model.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Service.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Common.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Data.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Data.dll.config
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Model.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Model.dll.config
+D:\Lap trinh web\Project\project_team\Project\Project\Project\bin\Service.pdb

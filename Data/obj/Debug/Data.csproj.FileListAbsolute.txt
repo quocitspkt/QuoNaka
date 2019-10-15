@@ -1,0 +1,14 @@
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\Data.dll.config
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\Data.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\Data.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\Common.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\EntityFramework.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\Common.pdb
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\EntityFramework.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lap trinh web\Project\project_team\Project\Project\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Lap trinh web\Project\project_team\Project\Project\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Lap trinh web\Project\project_team\Project\Project\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Lap trinh web\Project\project_team\Project\Project\Data\obj\Debug\Data.dll
+D:\Lap trinh web\Project\project_team\Project\Project\Data\obj\Debug\Data.pdb
